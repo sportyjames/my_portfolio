@@ -1,4 +1,4 @@
-# Personal Website
+# Portfolio Website
 
 Jiayu's personal website.
 - Built with front end technologies: HTML, SCSS.
