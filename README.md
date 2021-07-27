@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Jiayu's personal website.
+Jiayu's Portfolio Website.
 - Built with front end technologies: HTML, SCSS.
 - Learned Git for version control 
-- [View My Website](https://sportyjames.github.io/Portfolio/)
+- [View My Portfolio](https://sportyjames.github.io/Portfolio/)
