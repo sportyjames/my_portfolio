@@ -1,9 +1,9 @@
 {
-  "name": "website",
+  "name": "Portfolio",
   "version": "1.0.0",
   "description": "personal website",
   "main": "index.js",
-  "homepage": "https://sportyjames.github.io/website",
+  "homepage": "https://sportyjames.github.io/Portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
